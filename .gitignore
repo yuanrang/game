@@ -1,0 +1,13 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Game/.config
+/Game/bin
+/Game/obj
+/Game/Properties
+/.vs
+/.svn
+/Bot/Telegram_Bot/bin/Debug
+/Bot/.vs
+/Bot/Telegram_Bot/obj
